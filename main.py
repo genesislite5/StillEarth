@@ -458,7 +458,7 @@ while running:
                                     floating_text.show_text(f"threw away {item_id}", font_size=20)
                                 elif item_id == meat_id:
                                     environment_points -= 1
-                                    floating_text.show_text(f"threw away {item_id}", font_size=20)
+                                    floating_text.show_text(f"wasted {item_id}", font_size=20)
                                 elif item_id == coffee_id:
                                     floating_text.show_text(f"threw away {item_id}", font_size=20)
                                 elif item_id == energy_id:
